@@ -1,0 +1,30 @@
+{
+  "name": "ct449",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TranManhHungBTLab1-2/CT449_Lab1.git"
+  },
+  "author": "ManhHung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TranManhHungBTLab1-2/CT449_Lab1/issues"
+  },
+  "homepage": "https://github.com/TranManhHungBTLab1-2/CT449_Lab1#readme",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^9.24.0",
+    "eslint-config-prettier": "^10.1.2",
+    "nodemon": "^3.1.9",
+    "prettier": "^3.5.3"
+  }
+}
